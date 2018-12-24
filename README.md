@@ -14,6 +14,11 @@ The car iteratively learns the action with the best reward, iteratively, by look
 
 My results: by changing the hyperparameters, I have optimized the net to increase the average speed of the car to 70.31mph. Initially, we are given a net with average speed of less than 52mph.
 
+# This is how the net parameters look:
+![Image of the net parameters](https://raw.githubusercontent.com/jsamarth/Deep-Traffic-Optimizations/master/net_params.png)
+
+# The traffic simulation, with random white cars, and the red autonomous car controlled by my algorithm:
+![the traffic situation](https://raw.githubusercontent.com/jsamarth/Deep-Traffic-Optimizations/master/traffic.png)
 
 
 
